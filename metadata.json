@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Network Control Panel",
+  "description": "An interactive dashboard to visualize and simulate a real-world quantum network architecture, including Quantum Key Distribution (QKD), entanglement, distributed computing, and secure messaging.",
+  "requestFramePermissions": []
+}
